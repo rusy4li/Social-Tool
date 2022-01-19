@@ -27,6 +27,11 @@ except ImportError:
 # Olduğunu kontrol etmek için cmd üzerinde Python -V Yazmanız yeterlidir.
 # Program windows bilgisayarlarda sorunsuz bir şekilde çalışabilicek şekilde tasarlandı
 
+print(">>> colorama Modulü İndiriliyor...")
+time.sleep(1)
+os.system("python -m pip install colorama")
+os.system("cls")
+print(">>> requests Modulü İndiriliyor...")
 time.sleep(1)
 os.system("pip3 install requests")
 os.system("cls")
