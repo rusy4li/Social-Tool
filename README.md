@@ -2,6 +2,7 @@
  >>> Sosyal medya hesabı bulucu
 
 # Kullanım-Kılavuzu
+-> Setup.py dosyasını çalıştırın ve request modulünü indirin!
 
 -> Sosyal Medya hesaplarını bulmak istediğiniz kişinin adını bu şekilde giriniz:
 
