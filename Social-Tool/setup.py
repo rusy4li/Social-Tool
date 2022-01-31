@@ -1,8 +1,4 @@
 try:
-    import requests
-except ImportError:
-    print(">>> 'requests' modül hatası!")
-try:
     import os
 except ImportError:
     print(">>> 'os' modül hatası!")
